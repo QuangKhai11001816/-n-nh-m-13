@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System;
 using X.PagedList;
-
+//sua cac loi
 namespace DACS.Controllers
 {
 
